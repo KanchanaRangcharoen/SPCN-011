@@ -1,5 +1,5 @@
 # SPCN-011
-เขียนอธิบายขั้นตอนการใช้งานของสร้าง vm and ct on Proxmox cluster
+ขั้นตอนการใช้งานของสร้าง vm and ct on Proxmox cluster
 
 1) Create master vm [ ubuntu-22.04 ]
    - สร้าง master vm มา 1 ตัว แล้วทำการ set ค่าพื้นฐานต่างๆ
