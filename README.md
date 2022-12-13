@@ -42,4 +42,5 @@
       - Summary 
         ![summary ct](https://user-images.githubusercontent.com/119097660/206991056-5ab02e66-2cb3-4f75-b49c-8512e565e7f3.png)
       - console screen 
-        ![watch screen  ct](https://user-images.githubusercontent.com/119097660/206991066-895b52ea-7bcc-41a7-a1da-aa7b5cf7c098.png)
+        ![watch screen  ct](https://user-images.githubusercontent.com/119097660/207253913-00a000ae-ebae-4d01-969e-1c2fe7db8934.png)
+
