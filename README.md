@@ -37,7 +37,7 @@
       - หน้า console screen
         ![watch screen other](https://user-images.githubusercontent.com/119097660/206990727-765816a0-5a64-4e54-b34d-ca6a22a91cd6.png)  
 
-3) create vm from other os
+3) create container
    - Click create container template เพื่อสร้าง CT
       - Summary 
         ![summary ct](https://user-images.githubusercontent.com/119097660/206991056-5ab02e66-2cb3-4f75-b49c-8512e565e7f3.png)
